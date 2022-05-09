@@ -84,6 +84,7 @@ LensInfo : Information of the lens present in the module.
 -->
 
 <CameraConfigurationRoot>
+<!--
   <CameraModuleConfig>
     <CameraId>0</CameraId>
     <SensorName>ov12a10</SensorName>
@@ -109,6 +110,7 @@ LensInfo : Information of the lens present in the module.
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
   </CameraModuleConfig>
+-->
   <CameraModuleConfig>
     <CameraId>2</CameraId>
     <SensorName>s5k3p8sp_d16s01n_sunny_d7</SensorName>
@@ -116,7 +118,7 @@ LensInfo : Information of the lens present in the module.
     <EepromName>s5k3p8sp_d16s01n_sunny_d7</EepromName>
     <ChromatixName>s5k3p8sp_d16s01n_sunny_d7_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
-    <Position>FRONT</Position>
+    <Position>BACK</Position>
     <MountAngle>270</MountAngle>
     <CSIInfo>
       <CSIDCore>2</CSIDCore>
@@ -138,7 +140,7 @@ LensInfo : Information of the lens present in the module.
     <EepromName>ov16885_ojf0541_ofilm_d7</EepromName>
     <ChromatixName>ov16885_ojf0541_ofilm_d7_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
-    <Position>FRONT</Position>
+    <Position>BACK</Position>
     <MountAngle>270</MountAngle>
     <CSIInfo>
       <CSIDCore>2</CSIDCore>
