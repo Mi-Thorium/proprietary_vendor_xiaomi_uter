@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/uter/proprietary/vendor/etc/camera/ov12a10_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov12a10_chromatix.xml \
     vendor/xiaomi/uter/proprietary/vendor/etc/camera/ov16885_ojf0541_ofilm_d7_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov16885_ojf0541_ofilm_d7_chromatix.xml \
     vendor/xiaomi/uter/proprietary/vendor/etc/camera/s5k3p8sp_d16s01n_sunny_d7_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8sp_d16s01n_sunny_d7_chromatix.xml \
+    vendor/xiaomi/uter/proprietary/vendor/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware.bin \
     vendor/xiaomi/uter/proprietary/vendor/lib64/hw/consumerir.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8953.so \
     vendor/xiaomi/uter/proprietary/vendor/lib64/hw/fingerprint.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8953.so \
     vendor/xiaomi/uter/proprietary/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
